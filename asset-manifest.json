@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sliderTR/static/css/main.6a96480a.chunk.css",
-    "main.js": "/sliderTR/static/js/main.8fa2a903.chunk.js",
-    "main.js.map": "/sliderTR/static/js/main.8fa2a903.chunk.js.map",
+    "main.js": "/sliderTR/static/js/main.de8c8167.chunk.js",
+    "main.js.map": "/sliderTR/static/js/main.de8c8167.chunk.js.map",
     "runtime-main.js": "/sliderTR/static/js/runtime-main.8dbad042.js",
     "runtime-main.js.map": "/sliderTR/static/js/runtime-main.8dbad042.js.map",
     "static/css/2.679831fc.chunk.css": "/sliderTR/static/css/2.679831fc.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.6bb6cebc.chunk.js",
     "static/css/main.6a96480a.chunk.css",
-    "static/js/main.8fa2a903.chunk.js"
+    "static/js/main.de8c8167.chunk.js"
   ]
 }
