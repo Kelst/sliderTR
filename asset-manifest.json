@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sliderTR/static/css/main.6a96480a.chunk.css",
+    "main.js": "/sliderTR/static/js/main.3fb459cc.chunk.js",
+    "main.js.map": "/sliderTR/static/js/main.3fb459cc.chunk.js.map",
+    "runtime-main.js": "/sliderTR/static/js/runtime-main.8dbad042.js",
+    "runtime-main.js.map": "/sliderTR/static/js/runtime-main.8dbad042.js.map",
+    "static/css/2.679831fc.chunk.css": "/sliderTR/static/css/2.679831fc.chunk.css",
+    "static/js/2.6bb6cebc.chunk.js": "/sliderTR/static/js/2.6bb6cebc.chunk.js",
+    "static/js/2.6bb6cebc.chunk.js.map": "/sliderTR/static/js/2.6bb6cebc.chunk.js.map",
+    "static/js/3.0cf9dfea.chunk.js": "/sliderTR/static/js/3.0cf9dfea.chunk.js",
+    "static/js/3.0cf9dfea.chunk.js.map": "/sliderTR/static/js/3.0cf9dfea.chunk.js.map",
+    "index.html": "/sliderTR/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/sliderTR/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.6a96480a.chunk.css.map": "/sliderTR/static/css/main.6a96480a.chunk.css.map",
+    "static/js/2.6bb6cebc.chunk.js.LICENSE.txt": "/sliderTR/static/js/2.6bb6cebc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sliderTR/static/media/youtube.4cb2a4c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dbad042.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.6bb6cebc.chunk.js",
+    "static/css/main.6a96480a.chunk.css",
+    "static/js/main.3fb459cc.chunk.js"
+  ]
+}
