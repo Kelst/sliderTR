@@ -18,7 +18,7 @@ function App() {
  }
   const [SliderData,setList]=useState([]);
   useEffect(() => {
- fetch('http://localhost:3006/Photos')
+ fetch('https://my-json-server.typicode.com/Kelst/server/Photos')
 .then(response => response.json())
 .then(json => setList([...json]))
     
